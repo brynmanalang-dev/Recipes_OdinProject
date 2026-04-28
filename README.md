@@ -1,9 +1,15 @@
+# Odin's Kitchen 🍴⚡
+
+<img src="Recipes_OdinProject/img/odin.jpg">
+
 Odin's Favorite go to recipes when he's tired of watching over Asgard!
 
-• Has easy and delicous recipes 😋
+## FEATURES
 
-• Has step to step guide on how to cook and prepare them
+* Has easy and delicous recipes 😋
 
-• Functional Hyperlinks (Home, Recipes, etc)
+* Has step to step guide on how to cook and prepare them
 
-• Has images (not sized properly)
+* Functional Hyperlinks (Home, Recipes, etc)
+
+* Has images (not sized properly)
