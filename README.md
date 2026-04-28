@@ -1,6 +1,6 @@
 # Odin's Kitchen 🍴⚡
 
-<img src="Recipes_OdinProject/img/odin.jpg">
+<img src="img/odin.jpg">
 
 Odin's Favorite go to recipes when he's tired of watching over Asgard!
 
